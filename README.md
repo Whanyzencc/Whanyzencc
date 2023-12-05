@@ -12,9 +12,10 @@
 <br>
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mnvthdrs}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Whanyzencc}/count.svg" /></p> 
 <br>
 </div>
+
 <!---
 Whanyzencc/Whanyzencc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
