@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/pinterestdownloader.com-1701764866.562062.gif" align="right" width="220">
 <!---
 Whanyzencc/Whanyzencc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
