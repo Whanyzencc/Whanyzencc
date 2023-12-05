@@ -1,10 +1,11 @@
 <img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/Join%20Now.gif" width="2000" height="300"/>
-- 👋 Hi, I’m @Whanyzencc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
+
+## About Me✧  :
+✧   A beginner at programming<br>
+✧   A freshman student in Informatics Major at Universitas Negeri Padang<br>
+✧   Interested in AI and UI/UX design<br>
+✧   Currently learning C<br>
+
 
 <img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/pinterestdownloader.com-1701764866.562062.gif" align="right" width="220">
 <!---
