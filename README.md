@@ -7,7 +7,7 @@
 ✧   Currently learning C<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/pinterestdownloader.com-1701764866.562062.gif" align="right" width="220">
+<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/ppg-flying.gif" align="right" width="220">
 
 <br>
 <div align="center">
