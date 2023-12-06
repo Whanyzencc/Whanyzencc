@@ -13,13 +13,16 @@
 ### Find Me On: <br>
 <div id="badges">
 <a href="https://www.instagram.com/whenyzenc_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=yellow" alt="Instagram Badge" height="35" width="150"/>
+  <img src="https://img.shields.io/badge/Instagram-00d1e5?style=for-the-badge&logo=instagram&logoColor=ffff00" alt="Instagram Badge" height="35" width="150"/>
 </a> <br> 
 <a href="mailto:whenyzenica@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-deeppink?style=for-the-badge&logo=gmail&logoColor=orange" alt="Gmail Badge"  height="35" width="150" />
 </a> <br>
 <a href="https://www.tiktok.com/@_annoyzen?_t=8hxdHPLMJ6&_r=1" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-gren?style=for-the-badge&logo=Tiktok&logoColor=black" alt="Tiktok Badge" height="35" width="150" />
+<div id="badges">
+<a href="https://discordapp.com/users/824195716259905557">
+  <img src="https://img.shields.io/badge/Discord-9999ff?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge" height="35" width="150"/>
 </a> <br> <br>
 <br>
 <div align="center">
@@ -44,5 +47,5 @@
 
 <!---
 Whanyzencc/Whanyzencc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.ba0bab
 --->
