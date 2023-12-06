@@ -8,7 +8,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/ppg-flying.gif" align="right" width="220">
+<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/spinel(1).gif" align="right" width="290">
 
+### Find Me On: <br>
+<div id="badges">
+<a href="https://www.instagram.com/whenyzenc_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=yellow" alt="Instagram Badge" height="35" width="150"/>
+</a> <br> 
+<a href="mailto:whenyzenica@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-deeppink?style=for-the-badge&logo=gmail&logoColor=orange" alt="Gmail Badge"  height="35" width="150" />
+</a> <br>
+<a href="https://www.tiktok.com/@_annoyzen?_t=8hxdHPLMJ6&_r=1" target="_blank">
+  <img src="https://img.shields.io/badge/tiktok-gren?style=for-the-badge&logo=Tiktok&logoColor=black" alt="Tiktok Badge" height="35" width="150" />
+</a> <br> <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a> 
+</div>
 ## 📊 GitHub Stats:
 <br>
 <div align="center">
