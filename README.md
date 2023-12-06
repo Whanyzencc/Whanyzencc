@@ -35,15 +35,12 @@
 
 ## 📊 GitHub Stats:
 
-  
-</div>
+<table align="center">
   <tr>
-    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api?username=Whanyzencc&theme=solarized-light&outrun=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Whanyzencc&theme=radical&hide_border=false"></td>
-    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whanyzencc&themeradical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></td>
+    <td><img width="500p" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Whanyzencc?cardType=github&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Whanyzencc&theme=solarized-light&hide_border=false"></td>
+    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whanyzencc&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></td>
   </tr>
 </table>
-
-
 
 <!---
 Whanyzencc/Whanyzencc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
