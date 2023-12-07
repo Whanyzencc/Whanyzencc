@@ -5,6 +5,7 @@
 ✧   A freshman student in Informatics Major at Universitas Negeri Padang<br>
 ✧   Interested in AI and UI/UX design<br>
 ✧   Currently learning C<br>
+✧   Passionate about visual design and photography<br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
