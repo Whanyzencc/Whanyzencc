@@ -22,7 +22,10 @@
 </a> <br>
 <a href="https://www.tiktok.com/@_annoyzen?_t=8hxdHPLMJ6&_r=1" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-gren?style=for-the-badge&logo=Tiktok&logoColor=black" alt="Tiktok Badge" height="35" width="150" />
-<div id="badges">
+</a> <br>
+  <a href="https://youtube.com/@ZoolineBox2952?feature=shared" target="_blank">
+  <img src="https://img.shields.io/badge/youtube-ffffcc?style=for-the-badge&logo=youtube&logoColor=red" alt="youtube Badge" height="35" width="150" />
+</a> <br>
 <a href="https://discordapp.com/users/824195716259905557">
   <img src="https://img.shields.io/badge/Discord-9999ff?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge" height="35" width="150"/>
 </a> <br> <br>
