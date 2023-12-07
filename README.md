@@ -5,13 +5,15 @@
 ✧   A freshman student in Informatics Major at Universitas Negeri Padang<br>
 ✧   Interested in AI and UI/UX design<br>
 ✧   Currently learning C<br>
+
 <a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a> <br> <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/ppg-flying.gif" align="right" width="220">
-<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/spinel(1).gif" align="right" width="290">
+
 </a> <br> <br>
-### Find Me On: <br>
+<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/spinel(1).gif" align="right" width="290">
+
+### 🌐Find Me On: <br>
 <div id="badges">
 <a href="https://www.instagram.com/whenyzenc_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-00ccff?style=for-the-badge&logo=instagram&logoColor=ffff00" alt="Instagram Badge" height="35" width="150"/>
@@ -25,6 +27,7 @@
 <a href="https://discordapp.com/users/824195716259905557">
   <img src="https://img.shields.io/badge/Discord-9999ff?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge" height="35" width="150"/>
 </a> <br> <br>
+
 <br>
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
