@@ -1,4 +1,4 @@
-<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/Join%20Now.gif" width="2000" height="300"/>
+<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/Join%20Now%20(1).gif" width="2000" height="300"/>
 
 ## 📌About Me✧𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🦋🌸𓍯૮₍ ´• ˕ • ₎ა🌸🧸✧ :
 ✧   A beginner at programming<br>
